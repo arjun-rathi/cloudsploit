@@ -325,7 +325,7 @@ Results can be suppressed by passing the `--suppress` flag (multiple options are
 
 For example:
 ```
-# Suppress all results for the acmValidation plugin
+# Suppress alld results for the acmValidation plugin
 $ ./index.js --suppress acmValidation:*:*
 
 # Suppress all us-east-1 region results
